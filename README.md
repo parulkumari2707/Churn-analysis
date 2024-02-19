@@ -15,3 +15,11 @@ Usage
 1. Ensure you have Python installed on your system.
 2. Install the required dependencies using pip install -r requirements.txt.
 3. Run the churn_analysis.py script with Python, providing the path to your dataset.
+
+Contributions
+=====
+Contributions are welcome! Feel free to open issues and pull requests for any improvements or additional features you'd like to see in this churn analysis project.
+
+License
+====
+This project is licensed under the MIT License - see the LICENSE file for details.
